@@ -1,0 +1,27 @@
+{
+  "name": "node-express-api-practice",
+  "version": "1.0.0",
+  "description": "Just practicing today's api lesson for Lambda School",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuston05/node-express-api-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuston05/node-express-api-practice/issues"
+  },
+  "homepage": "https://github.com/fuston05/node-express-api-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "shortid": "^2.2.15"
+  }
+}
